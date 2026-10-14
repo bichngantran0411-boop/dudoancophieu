@@ -265,4 +265,4 @@ st.dataframe(table.style.format("{:,.2f}"), width="stretch")
 st.caption(
     "⚠️ Dự báo đệ quy nhiều bước sẽ tích lũy sai số, và danh sách ngày chưa loại trừ ngày lễ. "
     "Chỉ mang tính tham khảo, không phải khuyến nghị đầu tư."
-)
+)  import matplotlib.pyplot
